@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>https://sochow.ski/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://sochow.ski/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hi, I&#39;m Aidan</title>
+      <link>https://sochow.ski/</link>
+      <pubDate>Mon, 13 Jun 2022 14:15:59 -0600</pubDate>
+      
+      <guid>https://sochow.ski/</guid>
+      <description>I&amp;rsquo;m entering my final year of the University of Illinois at Urbana-Champaign where I study computer science and statistics. Currently I&amp;rsquo;m a software engineer intern at Twitch in San Francisco, working on data infrastructure. During the fall, I will be studying abroad in Ireland at University College Dublin. I plan on graduating in either December 2022 or May 2023 (TBD).
+I&amp;rsquo;m currently looking for new-grad software engineer roles in nearly any location throughout the United States.</description>
+      <content>&lt;p&gt;I&amp;rsquo;m entering my final year of the &lt;a href=&#34;cs.illinois.edu&#34;&gt;University of Illinois at Urbana-Champaign&lt;/a&gt; where I study computer science and statistics. Currently I&amp;rsquo;m a software engineer intern at &lt;a href=&#34;https://www.twitch.tv/p/en/about/&#34;&gt;Twitch&lt;/a&gt; in San Francisco, working on data infrastructure. During the fall, I will be studying abroad in Ireland at University College Dublin. I plan on graduating in either December 2022 or May 2023 (TBD).&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently looking for new-grad software engineer roles in nearly any location throughout the United States. As well as doing research during the school year at &lt;a href=&#34;cs.illinois.edu&#34;&gt;UIUC&lt;/a&gt; and the &lt;a href=&#34;https://www.ncsa.illinois.edu/&#34;&gt;National Center for Supercomputing Applications&lt;/a&gt; (NCSA), I&amp;rsquo;ve done software engineering internships at the following companies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.twitch.tv/p/en/about/&#34;&gt;Twitch&lt;/a&gt;: Data Platform&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://about.google/&#34;&gt;Google&lt;/a&gt;: YouTube Video Infrastructure&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/panorama/&#34;&gt;Amazon&lt;/a&gt;: AWS Panorama&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.aarp.org/about-aarp/&#34;&gt;AARP&lt;/a&gt;: Rewards &amp;amp; Walk Audit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I recently bought a camera and started taking a lot of pictures with it. I&amp;rsquo;m pretty bad with it right now, but I&amp;rsquo;ll upload the lucky few shots that look nice here. I also have done some projects for fun, and I&amp;rsquo;ve written about them in the projects section.&lt;/p&gt;
+&lt;p&gt;Feel free to check out the contact section if you&amp;rsquo;d like to get in touch.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
