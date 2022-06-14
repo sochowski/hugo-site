@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Terminal</title>
+    <title>Terminal</title>
     <link>https://sochow.ski/projects/</link>
-    <description>Recent content in Projects on Terminal</description>
+    <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sochow.ski/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sochow.ski/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eighth Note</title>
+      <link>https://sochow.ski/projects/eighth-note/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sochow.ski/projects/eighth-note/</guid>
+      <description>Come back later, I&amp;rsquo;m in the process of writing this.</description>
+      <content>&lt;p&gt;Come back later, I&amp;rsquo;m in the process of writing this.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Quake Miner</title>
+      <link>https://sochow.ski/projects/quake-miner/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sochow.ski/projects/quake-miner/</guid>
+      <description>Come back later, I&amp;rsquo;m in the process of writing this.</description>
+      <content>&lt;p&gt;Come back later, I&amp;rsquo;m in the process of writing this.&lt;/p&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>

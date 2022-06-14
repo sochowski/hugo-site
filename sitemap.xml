@@ -5,12 +5,22 @@
     <loc>https://sochow.ski/</loc>
     <lastmod>2022-06-13T14:15:59-06:00</lastmod>
   </url><url>
+    <loc>https://sochow.ski/projects/</loc>
+    <lastmod>2022-05-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://sochow.ski/projects/eighth-note/</loc>
+    <lastmod>2022-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sochow.ski/projects/quake-miner/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sochow.ski/categories/</loc>
+  </url><url>
     <loc>https://sochow.ski/contact/</loc>
   </url><url>
     <loc>https://sochow.ski/photography/</loc>
   </url><url>
-    <loc>https://sochow.ski/projects/</loc>
-  </url><url>
-    <loc>https://sochow.ski/</loc>
+    <loc>https://sochow.ski/tags/</loc>
   </url>
 </urlset>
